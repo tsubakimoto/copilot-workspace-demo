@@ -1,2 +1,1 @@
-# copilot-workspace-demo
-https://githubnext.com/projects/copilot-workspace
+# Copilot Workspace Demo
